@@ -1,0 +1,6 @@
+
+B
+java:S1602<",Remove useless curly braces around statement(õÍ×à
+V	java:S125V"<This block of commented-out lines of code should be removed.(³´Éåøÿÿÿÿ
+O
+java:S1128"4Remove this unused import 'representation.Variable'.(³”ìüÿÿÿÿÿ

@@ -1,0 +1,13 @@
+
+R
+java:S2589""7Remove this expression which always evaluates to "true"(ªÂıúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(«êµ‰úÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(»¸ï²
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(ü³Äï
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(¹¦¹
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(±Ùé¯ÿÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ÇÓ‰ƒÿÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(å¥’Ìøÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(§ÆŠ›
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ëÕÂøÿÿÿÿ
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(¢‡¢’
